@@ -1,0 +1,15 @@
+1. Importing the packages
+2. exploring the dataset - Accident Detection Data
+3. Installing the packages required for yolov5 in Colab
+4. Processing the Data based on yolov5 model
+5. building the model in colab
+	- YOLOV5
+6. training the model
+7. building the model with YOLOv5
+8. training the model
+9. Flask Framework with Sqlite for signup and signin
+10. User gives input as Image or Video
+11. the given input preprocessed and with trained model is used for detecting the license plate 
+12. the segmented each object and put bounding box 
+13. final outcome is displayed
+
